@@ -75,7 +75,7 @@
     "mock-require": "^3.0.3",
     "mock-stdio": "^1.0.3",
     "module-alias": "^2.2.2",
-    "newrelic": "^6.11.0",
+    "newrelic": "^11.19.0",
     "nop": "^1.0.0",
     "nyc": "^15.1.0",
     "optimize-js-plugin": "0.0.4",
